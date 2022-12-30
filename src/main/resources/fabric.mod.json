@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.alice.customItems.main"
+    ],
+    "client": [
+      "net.alice.customItems.mainClient"
     ]
   },
   "mixins": [
