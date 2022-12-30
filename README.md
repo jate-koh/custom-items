@@ -1,9 +1,16 @@
-# Fabric Example Mod
+# Alice's Customs Items Mods
 
-## Setup
+Server-side mod aims at creating customize option for items in Minecraft's Multiplayer Server.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Main Purpose is to:
+- Allow renaming items with color code or format.
+- Allow writing lore and description for items.
+- Allow adding or editing custom level of enchantment to items.
+- Allow modifying potion effect of potions.
 
-## License
+Complementary Stuff that I want to add:
+- Allow binding command to items, like PowerTools.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+> [Under Development]
+>
+> **For Minecraft Fabric Server!**
